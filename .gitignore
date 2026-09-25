@@ -46,4 +46,5 @@ bin/
 
 
 ###The data here is bank account information. Should not be in git...###
-/src/data/
+/src/data/*
+!/src/data/.gitkeep
